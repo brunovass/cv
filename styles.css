@@ -66,3 +66,16 @@ body {
   .estudios p {
     margin: 5px 0;
   }
+
+  .experiencia {
+    background-color: #f9f9f9;
+    padding: 20px;
+  }
+  
+  .experiencia h2 {
+    color: #333;
+  }
+  
+  .experiencia p {
+    margin: 5px 0;
+  }
