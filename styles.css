@@ -53,3 +53,16 @@ body {
   .introduccion p {
     margin: 5px 0;
   }
+
+  .estudios {
+    background-color: #f9f9f9;
+    padding: 20px;
+  }
+  
+  .estudios h2 {
+    color: #333;
+  }
+  
+  .estudios p {
+    margin: 5px 0;
+  }
