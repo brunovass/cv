@@ -97,3 +97,15 @@ body {
   .hobbies li {
     margin: 5px 0;
   }
+
+  footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  footer a {
+    color: white;
+    text-decoration: none;
+  }
