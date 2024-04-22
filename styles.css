@@ -79,3 +79,21 @@ body {
   .experiencia p {
     margin: 5px 0;
   }
+
+  .hobbies {
+    background-color: #f9f9f9;
+    padding: 20px;
+  }
+  
+  .hobbies h2 {
+    color: #333;
+  }
+  
+  .hobbies ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .hobbies li {
+    margin: 5px 0;
+  }
