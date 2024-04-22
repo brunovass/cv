@@ -13,11 +13,30 @@ body {
     margin: 0 auto;
     padding: 20px;
     display: flex;
-    justify-content: center; /* Centra horizontalmente */
-    align-items: center; /* Centra verticalmente */
+    justify-content: center; 
+    align-items: center; 
   }
   
   h1 {
     font-size: 2rem;
     margin: 0;
+  }
+
+  .contacto {
+    margin-top: 30px;
+    background-color: #f4f4f4;
+    padding: 20px;
+  }
+  
+  .contacto h2 {
+    color: #333;
+  }
+  
+  .contacto-info {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .contacto p {
+    margin: 5px 0;
   }
